@@ -7,6 +7,7 @@ import {AuthModule} from '../../auth/auth.module';
 import {MatButtonModule} from '@angular/material/button';
 import {MenuItemModule} from '../menu-item/menu-item.module';
 import {_MatMenuDirectivesModule} from '@angular/material/menu';
+import { MenuDeveloperComponent } from '../menu-developer/menu-developer.component';
 
 
 @NgModule({
